@@ -1,0 +1,13 @@
+{
+    "name": "datenknoten/csp-reporter",
+    "description": "A simple csp reporter",
+    "require": {
+        "monolog/monolog": "~1.17"
+    },
+    "authors": [
+                {
+                    "name": "Tim Schumacher",
+                    "email": "tim@datenknoten.me"
+                }
+    ]
+}
